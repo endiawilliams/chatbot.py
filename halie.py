@@ -22,7 +22,7 @@ def id_pos(user_response):
     if noun_exists == False:
         print("No nouns or personal pronouns were found.")
 
-print("Hi, I'm chatbot.py! Nice to meet you.")
+print("Hi, I'm HALIE! Nice to meet you.")
 
 user_response = input()
 
